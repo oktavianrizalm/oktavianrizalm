@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner dengan Efek Animasi Typing SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Jale%20Oktavian%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Rizal%20%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
 
   <p align="center">
     <a href="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Android+Native+%26+Jetpack+Compose+Developer;Full-Stack+Web+Developer+(SvelteKit+%2F+Next.js+%2F+Laravel);Building+High-Impact+POS+%26+Business+Systems;Transit+%26+Geospatial+Mapping+Enthusiast">
@@ -22,7 +22,7 @@
 
 ### 🌟 About Me
 
-Saya adalah seorang ** ̶S̶o̶f̶t̶w̶a̶r̶e̶ ̶D̶e̶v̶e̶l̶o̶p̶e̶r̶ Vibecoder** yang berfokus membangun aplikasi yang praktis, cepat, dan menjawab kebutuhan operasional bisnis nyata:
+Saya adalah seorang **Vibecoder** yang berfokus membangun aplikasi yang praktis, cepat, dan menjawab kebutuhan operasional bisnis nyata:
 
 - 📱 **Mobile Development**: Mengembangkan aplikasi Android Native modern menggunakan **Kotlin**, **Jetpack Compose**, Room Database, dan arsitektur MVVM.
 - 💻 **Modern Web Ecosystem**: Merancang web interaktif dan performan tinggi dengan **Svelte 5 / SvelteKit**, **Next.js (App Router)**, **React**, serta backend tangguh dengan **Laravel 11 & Filament v3**.
@@ -61,83 +61,82 @@ Saya adalah seorang ** ̶S̶o̶f̶t̶w̶a̶r̶e̶ ̶D̶e̶v̶e̶l̶o̶p̶e̶r̶ 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🍽️ ChipPOS 2.0 & ChipPOS</h3>
+      <h3 align="center">💼 Web App POS & ERP Ecosystem</h3>
       <p align="center">
-        <a href="https://github.com/oktavianrizalm/ChipPos20"><b>Lihat Repositori ↗</b></a>
+        <b>🔒 Private Repository (Client & Production)</b>
       </p>
-      <p>Sistem Point of Sale (POS) restoran komprehensif yang dirancang untuk efisiensi operasional F&B:</p>
+      <p>Rangkaian sistem Point of Sale (POS) dan Enterprise Resource Planning (ERP) kustom untuk efisiensi bisnis retail & F&B:</p>
       <ul>
-        <li>Kalkulasi HPP otomatis per komposisi resep menu.</li>
-        <li>Integrasi printer struk thermal via Bluetooth & rekap presensi.</li>
-        <li>Dashboard analitik investor real-time untuk skema <i>joint venture</i>.</li>
+        <li>Kalkulasi otomatis HPP bahan baku per menu/resep & rekap transaksi.</li>
+        <li>Integrasi printer thermal (Web Bluetooth), scanner barcode, dan manajemen stok gudang.</li>
+        <li>Dashboard analitik finansial & performa outlet untuk owner/investor.</li>
       </ul>
-      <p><b>Tech:</b> <code>Kotlin</code> • <code>Jetpack Compose</code> • <code>SvelteKit</code> • <code>Supabase</code></p>
+      <p><b>Tech:</b> <code>SvelteKit</code> • <code>Laravel</code> • <code>Supabase</code> • <code>Filament</code> • <code>Kotlin</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📦 HabPOS & HabStock</h3>
+      <h3 align="center">👶 Worksheet4Kids</h3>
       <p align="center">
-        <b>Ecosystem Retail & Inventory</b>
+        <a href="https://github.com/oktavianrizalm/Worksheet4Kids"><b>Lihat Repositori ↗</b></a>
       </p>
-      <p>Solusi terpadu manajemen toko retail non-komposisi dan gudang:</p>
+      <p>Aplikasi web interaktif untuk stimulasi visual dan persepsi kognitif anak usia dini:</p>
       <ul>
-        <li>Sinkronisasi data stok barang masuk antara gudang dan outlet.</li>
-        <li>Pencetakan label barcode harga otomatis dengan generator ZXing.</li>
-        <li>Antarmuka kasir cepat dan ramah pengguna.</li>
+        <li>Lembar kerja digital interaktif untuk melatih persepsi visual anak.</li>
+        <li>Dilengkapi efek audio dan animasi yang menarik untuk anak-anak.</li>
+        <li>Didukung pengujian otomatis berbasis Vitest.</li>
       </ul>
-      <p><b>Tech:</b> <code>Android Native</code> • <code>Kotlin</code> • <code>Room DB</code> • <code>ZXing</code></p>
+      <p><b>Tech:</b> <code>Vite</code> • <code>TypeScript</code> • <code>Vitest</code> • <code>Interactive Audio/Web</code></p>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📍 TrackingKRL</h3>
+      <p align="center">
+        <a href="https://github.com/oktavianrizalm/TrackingKRL"><b>Lihat Repositori ↗</b></a>
+      </p>
+      <p>Platform pelacak jadwal dan estimasi kedatangan transportasi publik (KRL & MRT Jakarta):</p>
+      <ul>
+        <li>Akses data jadwal KRL & MRT yang cepat dan responsif bagi para komuter.</li>
+        <li>Analisis geospasial jarak stasiun dan jalur menggunakan Turf.js.</li>
+      </ul>
+      <p><b>Tech:</b> <code>SvelteKit</code> • <code>Turf.js</code> • <code>Leaflet</code> • <code>Web Scraping</code> • <code>Tailwind CSS</code></p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🚆 Commutype</h3>
       <p align="center">
         <a href="https://github.com/oktavianrizalm/Commutype"><b>Lihat Repositori ↗</b></a>
       </p>
-      <p>Game interaktif uji kecepatan mengetik (typing-test) dengan konsep unik rute Kereta Rel Listrik (KRL) Jabodetabek:</p>
+      <p>Game interaktif uji kecepatan mengetik (*typing-test*) bertema jalur Commuter Line Jabodetabek:</p>
       <ul>
-        <li>Setiap kata yang diketik menggerakkan kereta dari stasiun ke stasiun.</li>
-        <li>Visualisasi peta geografis rel kereta secara real-time.</li>
+        <li>Setiap kata yang diketik menggerakkan kereta maju dari stasiun ke stasiun.</li>
+        <li>Integrasi visualisasi peta geografis rel kereta secara real-time.</li>
       </ul>
       <p><b>Tech:</b> <code>Svelte 5</code> • <code>SvelteKit</code> • <code>Leaflet</code> • <code>TypeScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📍 Commuter Tracking (KRL & MRT)</h3>
-      <p align="center">
-        <a href="https://github.com/oktavianrizalm/TrackingKRL"><b>Lihat Repositori ↗</b></a>
-      </p>
-      <p>Platform pelacak estimasi kedatangan dan jadwal kereta komuter perkotaan:</p>
-      <ul>
-        <li>Akses data jadwal KRL & MRT Jakarta yang cepat dan responsif.</li>
-        <li>Analisis kedekatan stasiun dan jalur menggunakan algoritma spasial.</li>
-      </ul>
-      <p><b>Tech:</b> <code>SvelteKit</code> • <code>Turf.js</code> • <code>Web Scraping</code> • <code>Tailwind CSS</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏢 POSBIG</h3>
+      <h3 align="center">🏛️ Peminjaman Ruangan Pasca</h3>
       <p align="center">
-        <a href="https://github.com/oktavianrizalm/POSBIG"><b>Lihat Repositori ↗</b></a>
+        <a href="https://github.com/oktavianrizalm/PeminjamanRuanganPasca"><b>Lihat Repositori ↗</b></a>
       </p>
-      <p>Sistem backend POS berskala besar dengan panel manajemen terintegrasi:</p>
+      <p>Sistem manajemen dan reservasi ruangan pascasarjana berbasis web:</p>
       <ul>
-        <li>Panel administrasi elegan dan modular menggunakan Filament v3.</li>
-        <li>Manajemen transaksi, produk multi-varian, dan otorisasi ketat.</li>
-        <li>Diuji dengan Pest PHP testing framework.</li>
+        <li>Mempermudah pengelolaan jadwal pinjam fasilitas dan pencegahan bentrok agenda.</li>
+        <li>Alur verifikasi dan persetujuan perizinan ruangan yang terstruktur dan transparan.</li>
       </ul>
-      <p><b>Tech:</b> <code>PHP 8.2</code> • <code>Laravel 11</code> • <code>Filament v3</code> • <code>Pest</code></p>
+      <p><b>Tech:</b> <code>Web Platform</code> • <code>Tailwind CSS</code> • <code>TypeScript</code> • <code>Vite</code></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏃 Virtual Run</h3>
       <p align="center">
         <a href="https://github.com/oktavianrizalm/virtualrun"><b>Lihat Repositori ↗</b></a>
       </p>
-      <p>Aplikasi web modern untuk penyelenggaraan ajang lari virtual:</p>
+      <p>Platform ajang lari virtual modern dengan verifikasi otomatis berbasis OCR:</p>
       <ul>
-        <li>Dilengkapi OCR terintegrasi (Tesseract.js) untuk membaca bukti tangkapan layar lari peserta secara otomatis.</li>
-        <li>Autentikasi aman dan penyimpanan data pelari.</li>
+        <li>Ekstraksi otomatis jarak lari dari tangkapan layar tracker lari menggunakan Tesseract.js.</li>
+        <li>Autentikasi aman dan manajemen data event pelari secara real-time.</li>
       </ul>
-      <p><b>Tech:</b> <code>Next.js 16</code> • <code>React 19</code> • <code>Supabase SSR</code> • <code>Tesseract.js</code></p>
+      <p><b>Tech:</b> <code>Next.js 16</code> • <code>React 19</code> • <code>Supabase SSR</code> • <code>Tesseract.js OCR</code></p>
     </td>
   </tr>
 </table>
@@ -150,10 +149,10 @@ Saya adalah seorang ** ̶S̶o̶f̶t̶w̶a̶r̶e̶ ̶D̶e̶v̶e̶l̶o̶p̶e̶r̶ 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=oktavianrizalm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=oktavianrizalm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktavianrizalm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=oktavianrizalm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
       </td>
     </tr>
   </table>
@@ -173,7 +172,7 @@ Saya adalah seorang ** ̶S̶o̶f̶t̶w̶a̶r̶e̶ ̶D̶e̶v̶e̶l̶o̶p̶e̶r̶ 
   <a href="https://github.com/oktavianrizalm">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://jaleoktavian.my.id">
+  <a href="https://blogjalele-maker.github.io/Landing-Page/">
     <img src="https://img.shields.io/badge/Portfolio%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:oktavianrizalm@gmail.com">
