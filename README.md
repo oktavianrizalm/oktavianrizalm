@@ -22,7 +22,7 @@
 
 ### 🌟 About Me
 
-Saya adalah seorang **Software Developer** yang berfokus membangun aplikasi yang praktis, cepat, dan menjawab kebutuhan operasional bisnis nyata:
+Saya adalah seorang ** ̶S̶o̶f̶t̶w̶a̶r̶e̶ ̶D̶e̶v̶e̶l̶o̶p̶e̶r̶ Vibecoder** yang berfokus membangun aplikasi yang praktis, cepat, dan menjawab kebutuhan operasional bisnis nyata:
 
 - 📱 **Mobile Development**: Mengembangkan aplikasi Android Native modern menggunakan **Kotlin**, **Jetpack Compose**, Room Database, dan arsitektur MVVM.
 - 💻 **Modern Web Ecosystem**: Merancang web interaktif dan performan tinggi dengan **Svelte 5 / SvelteKit**, **Next.js (App Router)**, **React**, serta backend tangguh dengan **Laravel 11 & Filament v3**.
@@ -173,7 +173,7 @@ Saya adalah seorang **Software Developer** yang berfokus membangun aplikasi yang
   <a href="https://github.com/oktavianrizalm">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://blogjalele-maker.github.io/Landing-Page/">
+  <a href="https://jaleoktavian.my.id">
     <img src="https://img.shields.io/badge/Portfolio%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:oktavianrizalm@gmail.com">
