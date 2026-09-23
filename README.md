@@ -172,7 +172,7 @@ Saya adalah seorang **Vibecoder** yang berfokus membangun aplikasi yang praktis,
   <a href="https://github.com/oktavianrizalm">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://blogjalele-maker.github.io/Landing-Page/">
+  <a href="https://jaleoktavian.my.id">
     <img src="https://img.shields.io/badge/Portfolio%20Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:oktavianrizalm@gmail.com">
