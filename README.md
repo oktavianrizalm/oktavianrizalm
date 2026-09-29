@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Rizal%20%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Android+Native+%26+Jetpack+Compose+Developer;Full-Stack+Web+Developer+(SvelteKit+%2F+Next.js+%2F+Laravel);Building+High-Impact+POS+%26+Business+Systems;Transit+%26+Geospatial+Mapping+Enthusiast">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Android+Native+%26+Jetpack+Compose+Developer;Full-Stack+Web+Developer+(SvelteKit+%2F+Next.js+%2F+Laravel);Building+High-Impact+POS+%26+Business+Systems;Transit+%26+Geospatial+Mapping+Enthusiast" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Vibe+Coder%2C+Casual+Developer%2C+Implementing+Ideas;a+Father%2C+Runner%2C+Graphic+Designer%2C+Cyclist+and+Dreamer">
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Vibe+Coder%2C+Casual+Developer%2C+Implementing+Ideas;a+Father%2C+Runner%2C+Graphic+Designer%2C+Cyclist+and+Dreamer" alt="Typing SVG" />
     </a>
   </p>
 
@@ -20,18 +20,18 @@
 
 ---
 
-### 🌟 About Me
+### About Me
 
-Saya adalah seorang **Vibecoder** yang berfokus membangun aplikasi yang praktis, cepat, dan menjawab kebutuhan operasional bisnis nyata:
+Saya adalah seorang **Vibecoder** yang berfokus membangun dan merealisasikan ide:
 
 - 📱 **Mobile Development**: Mengembangkan aplikasi Android Native modern menggunakan **Kotlin**, **Jetpack Compose**, Room Database, dan arsitektur MVVM.
-- 💻 **Modern Web Ecosystem**: Merancang web interaktif dan performan tinggi dengan **Svelte 5 / SvelteKit**, **Next.js (App Router)**, **React**, serta backend tangguh dengan **Laravel 11 & Filament v3**.
+- 💻 **Modern Web Ecosystem**: Merancang web interaktif dengan **Svelte 5 / SvelteKit**, **Next.js (App Router)**, **React**, serta backend dengan **Laravel 11 & Filament v3**.
 - 🛠️ **Real-World Business Impact**: Terbiasa membangun ekosistem POS & Inventory (integrasi printer thermal via Web Bluetooth, barcode scanning, OCR, kalkulasi HPP, dan dashboard investor).
-- 🚆 **Mobility & Transit**: Memiliki ketertarikan mendalam dalam analisis spasial dan pemetaan transit komuter (KRL Jabodetabek & MRT Jakarta).
+- 🚆 **Mobility & Transit**: Memiliki ketertarikan mendalam dalam analisis spasial dan pemetaan.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack & Arsenal
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,svelte,nextjs,react,laravel,php,supabase,tailwind,ts,js,vite,docker,postgres,github,figma&perline=8" alt="Tech Stack Icons" />
