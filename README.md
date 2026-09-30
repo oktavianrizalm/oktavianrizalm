@@ -56,7 +56,7 @@ Saya adalah seorang **Vibecoder** yang berfokus membangun dan merealisasikan ide
 
 ---
 
-### 🚀 Proyek Unggulan (*Featured Projects*)
+### Proyek Unggulan (*Featured Projects*)
 
 <table>
   <tr>
@@ -143,7 +143,7 @@ Saya adalah seorang **Vibecoder** yang berfokus membangun dan merealisasikan ide
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Stats
 
 <div align="center">
   <table border="0">
@@ -164,7 +164,7 @@ Saya adalah seorang **Vibecoder** yang berfokus membangun dan merealisasikan ide
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <div align="center">
   <p>Tertarik untuk berkolaborasi, mendiskusikan sistem POS, solusi mobilitas, atau ide proyek baru? Silakan terhubung!</p>
