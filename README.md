@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Rizal%20%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
 
   <p align="center">
-    <a href="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Vibe+Coder%2C+Casual+Developer%2C+Implementing+Ideas;a+Father%2C+Runner%2C+Graphic+Designer%2C+Cyclist+and+Dreamer">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Vibe+Coder%2C+Casual+Developer%2C+Implementing+Ideas;a+Father%2C+Runner%2C+Graphic+Designer%2C+Cyclist+and+Dreamer" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Casual+Coder%2C+Casual+Developer%2C+Implementing+Ideas;a+Father%2C+Runner%2C+Graphic+Designer%2C+Cyclist+and+Dreamer">
+      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Casual+Coder%2C+Casual+Developer%2C+Implementing+Ideas;a+Father%2C+Runner%2C+Graphic+Designer%2C+Cyclist+and+Dreamer" alt="Typing SVG" />
     </a>
   </p>
 
@@ -22,7 +22,7 @@
 
 ### About Me
 
-Saya adalah seorang **Vibecoder** yang berfokus membangun dan merealisasikan ide:
+Saya adalah seorang **Casual Coder** yang berfokus membangun dan merealisasikan ide:
 
 - 📱 **Mobile Development**: Mengembangkan aplikasi Android Native modern menggunakan **Kotlin**, **Jetpack Compose**, Room Database, dan arsitektur MVVM.
 - 💻 **Modern Web Ecosystem**: Merancang web interaktif dengan **Svelte 5 / SvelteKit**, **Next.js (App Router)**, **React**, serta backend dengan **Laravel 11 & Filament v3**.
